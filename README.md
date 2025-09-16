@@ -30,9 +30,13 @@ Layout:
 data/
   sft_data_collections/
     spider/
+      ...
     cosql/
+      ...
     sparc/
+      ...
     bird/
+      ...
 ```
 
 ---

@@ -1,0 +1,13 @@
+nltk==3.7
+sql-metadata==2.8.0
+tiktoken==0.7.0
+openai==0.28.0
+tokenizers==0.13.3
+anthropic==0.37.1
+transformers==4.28.1
+nmslib==2.1.1
+spacy==3.7.6
+pyserini==0.21.0
+func_timeout==4.3.5
+faiss-cpu==1.7.4
+rapidfuzz==2.0.11
